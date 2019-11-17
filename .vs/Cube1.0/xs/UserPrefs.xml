@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B6675D76-D366-137C-FF27-4DB831D81FBC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Hero.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Hero.cs" Line="12" Column="9" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/AnimateBackground.cs" />
+      <File FileName="Assets/Scripts/DestroyEnemy.cs" />
+      <File FileName="Assets/Scripts/RestartButton.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cube1.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Hero.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cf16090a-144e-4ae3-a063-28dc4098706d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
